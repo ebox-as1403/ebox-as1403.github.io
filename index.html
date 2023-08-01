@@ -1,12 +1,131 @@
 <!DOCTYPE html>
+<html lang="en">
 
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ebox-as1403.github.io</title>
+  <head>
+    <meta charset="utf-8">
+    <title>EBOX Peering policy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="EBOX Peering policy">
+    <meta name="author" content="EBOX">
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <!-- IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-</head>
+    <!-- Styles -->
+    <link href="css/peering.as1403.net.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Container -->
+    <div class="container">
 
-<body>
-</body>
+      <!-- Header -->
+      <header class="header nohighlight" id="overview">
+        <div class="row">
+          <div class="span12">
+	  <figure>
+	  <img src="img/logo.svg" alt="logo" />
+	  </figure>
+          </div>
+        </div>
+      </header>
 
+<!-- Peering contacts -->
+        <section id="contacts">
+                <div class="row">
+                <div class="span12">
+                <div class="well">
+                <span id="legend">Peering contact & misc informations</span>
+                        <p>- Peering request: peering AT ebox.ca</p>
+			<p>- Peering strategy, policy and technical: eric AT ebox.ca</p>
+			<br>
+                        <p>- ASN/Peering details: <a href="http://as1403.peeringdb.com">PeeringDB</a></p>
+                        <br>
+			<p>- Looking glass/traceroute tool: <a href="http://lg.as1403.net"> Montreal, QC</a></p>
+			<p>- Route-Server: <a href="http://route-server.as1403.net"> Longueuil, QC</a></p>
+			<br>
+			<br>
+			<p>- nPerf.com host: <a href="http://nperf.ebox.ca">Montreal, QC, CA</a></p>
+			<p>- Speedsmart host: <a href="https://speedsmart.ebox.ca">Longueuil, QC, CA</a></p>
+			<p>- Speedtest.net host: <a href="https://ebox.speedtest.net">Montreal, QC, CA</a></p>
+			<p>- Wifiman.com (Ubnt) host: <a href="https://wifiman.com">Montreal, QC, CA</a></p>
+			<br>
+			<p><b>Contribution and membership to various projects:</b></p>
+			<br>
+			<p>- CAIDA Archipelago (Ark) Measurement Infrastructure node: <a href="http://www.caida.org/projects/ark/statistics/yhu-ca.html">Stats for YHU-CA node</a></p>
+                        <br>
+			<p>- Route Views (University of Oregon): EBOX participates to the University of Oregon Route Views Project. To view the full BGP feed from AS1403, you can connect to <a href="telnet://route-views.routeviews.org">route-views.routeviews.org</a>, <a href="telnet://route-views2.routeviews.org">route-views2.routeviews.org</a> and <a href="telnet://route-views6.routeviews.org">route-views6.routeviews.org</a></p>
+			<br>
+			<p>- <a href="https://radar.qrator.net">Radar by Qrator</a>: EBOX provides data to the project since 2016</p>
+			<br>
+			<p>- NLNOG RING nodes (need to be a participant to connect via SSH):
+			<p> ebox01.ring.nlnog.net (Cologix MTL3)</p>
+			<p> ebox02.ring.nlnog.net (Cologix MTL7)</p>
+			<p> ebox03.ring.nlnog.net (Colo Rive-Sud)</p>
+			<br>
+			<p>- EBOX is also a member of the MANRS (Mutually Agreed Norms for Routing Security) initiative. For more info, visit <a href="http://manrs.org">MANRS.org</a/><p>
+		</div>
+                </div>
+                </div>
+	</section>
+
+<!-- Peering policy -->
+        <section id="policy">
+                <div class="row">
+                <div class="span12">
+                <div class="well">
+                <span id="legend">EBOX Peering policy</span><!-- IE/Safari dislike <legend> out of context -->
+			<p><b>Requirements:</p></b>
+			<p>- Applicant must operate a Network Operations Center (NOC) that is staffed and/or reachable 24x7x365<p>
+			<p>- Applicant must not announce RPKI invalids, bogons or prefixes identified in <a href="https://tools.ietf.org/html/rfc1918">RFC 1918</a> and bogons <a href="https://tools.ietf.org/html/rfc5735">RFC5735</a>/<a href="https://tools.ietf.org/html/rfc6598">RFC6598</a> and <a href="https://tools.ietf.org/html/rfc6890">RFC6890</a></p>
+			<p>- Applicant's routes must be aggregated where possible. EBOX will not accept routing announcements with prefixes longer than /24</p>
+			<p>- Applicant must maintain their PeeringDB page and its routes must be registered with an IRR such as <a href="http://altdb.net">AltDB</a>, <a href="http://radb.net">RADB</a> or <a href="http://ripe.net">RIPE</a></p>
+                </div>
+                </div>
+                </div>
+        </section>
+
+<!-- Peering information -->
+	<section id="public">
+		<div class="row">
+		<div class="span12">
+		<div class="well">
+		<span id="legend">Public peering locations</span><!-- IE/Safari dislike <legend> out of context -->
+			<p><b>Montreal, QC Canada:</b></p>
+			<p>QIX - 1250 Rene-Levesque - IPv4: 198.179.18.9 / IPv6: 2001:504:2D::18:9</p>
+			<p><b>Toronto, ON Canada:</b></p>
+			<p>TorIX - 151 Front - IPv4: 206.108.34.248 / IPv6: 2001:504:1A::34:248</p>
+                </div>
+                </div>
+                </div>
+	</section>
+
+	<section id="private">
+		<div class="row">
+                <div class="span12">
+                <div class="well">
+		<span id="legend">Private peering locations</span><!-- IE/Safari dislike <legend> out of context -->
+			<p><b>Longueuil, QC Canada:</b></p>
+			<p>Colo Rive-Sud MMR - 1225 St-Charles O</p>
+                        <p><b>Montreal, QC Canada:</b></p>
+                        <p>Cologix MTL3 MMR - 1250 Rene-Levesque O</p>
+			<p>Cologix MTL7 MMR - 1155 Robert-Bourassa</p>
+			<p>MetroOptic MMR - 875 St-Antoine O</p>
+			<p><b>Toronto, ON Canada:</b></p>
+                        <p>BMMR - 151 Front St W.</p>
+		</div>
+		</div>
+		</div>
+	</section>
+
+      <!-- Footer -->
+      <footer class="footer nohighlight">
+        </p>
+        <p>Visit our corporate website at <a href="https://ebox.ca">EBOX.ca</a></p>
+      </footer>
+
+    </div><!-- /container -->
+
+  </body>
 </html>
