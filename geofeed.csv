@@ -260,7 +260,7 @@
 2606:6d00:23::/48,CA,CA-ON,Toronto,
 2606:6d00:24::/48,CA,CA-ON,Toronto,
 2606:6d00:40::/42,CA,CA-ON,Toronto,
-2606:6d00:100::/40,CA,CA-ON,Montreal,
+2606:6d00:100::/40,CA,CA-QC,Montreal,
 2606:6d00:200::/52,CA,CA-ON,Toronto,
 2606:6d00:201::/64,CA,CA-QC,Montreal,
 2606:6d00:eb0::/48,CA,CA-QC,Montreal,
