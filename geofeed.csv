@@ -187,8 +187,7 @@
 198.58.133.0/21,CA,CA-QC,Montreal,
 198.58.144.0/21,CA,CA-QC,Montreal
 198.58.152.0/21,CA,CA-QC,Montreal,
-198.58.160.0/22,CA,CA-QC,Montreal,
-198.58.164.0/22,CA,CA-QC,Montreal,
+198.58.160.0/21,CA,CA-QC,Montreal,
 198.58.168.0/22,CA,CA-QC,Montreal,
 198.58.172.0/22,CA,CA-ON,Montreal,
 198.58.176.0/20,CA,CA-ON,Toronto,
