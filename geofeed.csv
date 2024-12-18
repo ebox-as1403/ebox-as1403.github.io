@@ -20,6 +20,8 @@
 67.221.52.0/22,CA,CA-QC,Montreal,
 67.221.56.0/21,CA,CA-QC,Montreal,
 #
+72.10.128.0/21,CA,CA-QC,Montreal,
+#
 74.116.184.0/21,CA,CA-QC,Montreal,
 #
 96.127.192.0/18,CA,CA-QC,Montreal,
