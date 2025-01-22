@@ -23,6 +23,7 @@
 72.10.128.0/21,CA,CA-QC,Montreal,
 #
 74.116.184.0/21,CA,CA-QC,Montreal,
+74.116.188.0/22,CA,CA-QC,Montreal,
 #
 96.127.192.0/18,CA,CA-QC,Montreal,
 96.127.251.224/27,CA,CA-ON,Toronto,
@@ -30,6 +31,7 @@
 #
 104.163.128.0/17,CA,CA-QC,Montreal,
 104.163.128.0/21,CA,CA-QC,Montreal,
+104.163.140.0/22,CA,CA-QC,Montreal,
 104.163.144.0/20,CA,CA-QC,Montreal,
 #
 104.163.144.0/26,CA,CA-QC,Baie-Saint-Paul,
@@ -187,6 +189,8 @@
 198.58.128.0/22,CA,CA-ON,Toronto,
 198.58.132.0/22,CA,CA-ON,Toronto,
 198.58.133.0/21,CA,CA-QC,Montreal,
+198.58.136.0/22,CA,CA-QC,Montreal,
+198.58.140.0/22,CA,CA-QC,Montreal,
 198.58.144.0/21,CA,CA-QC,Montreal
 198.58.152.0/21,CA,CA-QC,Montreal,
 198.58.160.0/21,CA,CA-QC,Montreal,
@@ -217,7 +221,9 @@
 198.58.224.0/22,CA,CA-ON,Toronto,
 198.58.232.0/21,CA,CA-QC,Montreal,
 198.58.240.0/22,CA,CA-ON,Toronto,
+198.58.244.0/22,CA,CA-QC,Montreal,
 198.58.248.0/22,CA,CA-ON,Toronto,
+198.58.252.0/22,CA,CA-QC,Montreal,
 #
 198.58.240.0/20,CA,CA-ON,Toronto,
 #
