@@ -16,6 +16,9 @@
 64.58.46.0/24,CA,CA-ON,New Dundee,
 64.58.47.0/24,CA,CA-ON,Woodstock,
 #
+66.158.148.0/22,CA,CA-QC,Montreal,
+66.158.152.0/22,CA,CA-QC,Montreal,
+#
 67.221.48.0/20,CA,CA-QC,Montreal,
 67.221.52.0/22,CA,CA-QC,Montreal,
 67.221.56.0/21,CA,CA-QC,Montreal,
