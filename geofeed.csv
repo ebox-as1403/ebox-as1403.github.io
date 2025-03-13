@@ -159,9 +159,10 @@
 172.93.17.24/29,CA,CA-ON,Toronto,
 172.93.17.40/29,CA,CA-ON,Toronto,
 172.93.17.160/27,CA,CA-QC,Prévost,
-172.93.18.0/24,CA,CA-ON,Longueuil,
-172.93.19.0/24,CA,CA-ON,Longueuil,
-172.93.20.0/24,CA,CA-ON,Longueuil,
+172.93.18.0/24,CA,CA-OQC,Longueuil,
+172.93.19.0/24,CA,CA-QC,Longueuil,
+172.93.20.0/24,CA,CA-QC,Longueuil,
+172.93.24.0/21,CA,CA-QC,Montreal,
 #
 173.246.0.0/19,CA,CA-QC,Montreal,
 #
