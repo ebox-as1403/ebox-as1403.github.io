@@ -285,9 +285,10 @@
 205.210.104.0/24,CA,CA-ON,Toronto,
 # EBOX-NET-216-25-240-0
 216.25.240.0/20,CA,CA-ON,Toronto,
-216.25.244.0/20,CA,CA-ON,Toronto,
-216.25.248.0/20,CA,CA-ON,Toronto,
-216.25.252.0/20,CA,CA-ON,Toronto,
+216.25.240.0/22,CA,CA-ON,Toronto,
+216.25.244.0/22,CA,CA-ON,Toronto,
+216.25.248.0/22,CA,CA-ON,Toronto,
+216.25.252.0/22,CA,CA-ON,Toronto,
 #
 2600:d400::/28,CA,CA-QC,Montreal,
 2600:d400::/56,CA,CA-QC,Montreal,
@@ -321,5 +322,6 @@
 2606:6d00:eb0::/48,CA,CA-QC,Montreal,
 2606:6d00:eb0:1000::/52,CA,CA-QC,Montreal,
 2606:6d00:1200::/64,CA,CA-QC,Montreal,
+
 
 
