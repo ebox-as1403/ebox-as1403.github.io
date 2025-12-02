@@ -312,7 +312,8 @@
 198.52.48.0/20,CA,CA-QC,Montreal,
 205.151.56.0/24,CA,CA-QC,Montreal,
 205.151.120.0/24,CA,CA-QC,Quebec,
-205.233.124.0/23,CA,CA-QC,Montreal,
+205.233.124.0/24,CA,CA-QC,Montreal,
+205.233.125.0/24,CA,CA-QC,Montreal,
 205.236.230.0/24,CA,CA-QC,Montreal,
 206.123.4.0/24,CA,CA-QC,Montreal,
 207.35.94.0/23,CA,CA-QC,Montreal,
@@ -323,3 +324,4 @@
 199.202.64.0/24,CA,CA-QC,Montreal,
 204.19.34.0/23,CA,CA-QC,Montreal,
 2607:f800::/32,CA,CA-QC,Montreal,
+
