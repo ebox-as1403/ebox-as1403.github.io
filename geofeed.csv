@@ -270,7 +270,6 @@
 204.48.4.0/24,CA,CA-QC,Montreal,
 204.48.7.0/24,CA,CA-QC,Montreal,
 204.244.144.0/20,CA,CA-QC,Toronto,
-204.244.140.0/22,CA,CA-ON,Toronto,
 204.244.144.0/22,CA,CA-ON,Toronto,
 204.244.148.0/22,CA,CA-ON,Toronto,
 204.244.152.0/22,CA,CA-QC,Toronto,
@@ -354,5 +353,6 @@
 199.202.64.0/24,CA,CA-QC,Montreal,
 204.19.34.0/23,CA,CA-QC,Montreal,
 2607:f800::/32,CA,CA-QC,Montreal,
+
 
 
