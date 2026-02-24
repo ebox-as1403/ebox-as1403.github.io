@@ -201,7 +201,7 @@
 173.246.0.0/21,CA,CA-QC,Montreal,
 173.246.8.0/21,CA,CA-QC,Montreal,
 173.246.16.0/21,CA,CA-QC,Montreal,
-173.246.24.0/20,CA,CA-QC,Montreal,
+173.246.24.0/21,CA,CA-QC,Montreal,
 185.146.32.0/22,CA,CA-ON,Toronto,
 185.146.32.0/24,CA,CA-ON,Toronto,
 185.146.33.0/24,CA,CA-ON,Toronto,
@@ -396,4 +396,5 @@
 199.202.64.0/24,CA,CA-QC,Montreal,
 204.19.34.0/23,CA,CA-QC,Montreal,
 2607:f800::/32,CA,CA-QC,Montreal,
+
 
