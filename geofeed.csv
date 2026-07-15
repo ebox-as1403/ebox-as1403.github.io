@@ -85,6 +85,7 @@
 74.116.184.0/21,CA,CA-QC,Montreal,
 74.116.188.0/22,CA,CA-QC,Montreal,
 96.127.192.0/18,CA,CA-QC,Montreal,
+96.127.240.0/24,CA,CA-QC,Montreal,
 96.127.242.0/24,CA,CA-ON,Toronto,
 96.127.243.0/24,CA,CA-ON,Toronto,
 96.127.244.0/22,CA,CA-ON,Toronto,
