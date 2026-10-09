@@ -363,6 +363,7 @@
 2606:6d00:24::/48,CA,CA-ON,Toronto,
 2606:6d00:40::/42,CA,CA-ON,Toronto,
 2606:6d00:100::/40,CA,CA-QC,Montreal,
+2606:6d00:200::/48,CA,CA-ON,Ottawa,
 2606:6d00:300::/40,CA,CA-ON,Toronto,
 2606:6d00:f00::/40,CA,CA-QC,Montreal,
 2606:6d00:e00::/40,CA,CA-QC,Montreal,
